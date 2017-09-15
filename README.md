@@ -19,4 +19,4 @@ Escolha abaixo o desafio que estiver mais aderente aos seus anseios profissionai
 [Desafio QA](qa.md)
 
 ## Resposta do desafio
-[Resposta desafio back-end (readme.md)]
+[Resposta desafio back-end] (readme.md)
